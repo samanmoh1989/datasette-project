@@ -1,0 +1,13 @@
+{
+  "title": "Instructors Database",
+  "description": "A sample SQLite database of instructors",
+  "databases": {
+    "instructors": {
+      "tables": {
+        "Instructor": {
+          "description": "List of instructors with location data"
+        }
+      }
+    }
+  }
+}
